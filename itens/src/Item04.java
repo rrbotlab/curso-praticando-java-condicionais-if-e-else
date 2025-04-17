@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TesteScanner {
+public class Item04 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("\nDigite um número: ");
