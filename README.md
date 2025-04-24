@@ -4,7 +4,7 @@
 
 # Oracle ONE G8 + alura Latam
 
-![alt](/path)
+![capa](/assets/images/capa.png)
 
 ## Curso Java
 ### Praticando Java: condicionais if e else
